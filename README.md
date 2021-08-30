@@ -4,7 +4,7 @@
 # Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 # <h1>h1 bloğu denemesi</h1>
 # <h2>h2 bloğu denemesi</h2>
-# <h3>h3 içinde kalın yazı</h3>
+# <h3>*h3 içinde kalın yazı*</h3>
 # `console.log("Kod satırı denemesi");`
 ## deneme
 # -Deneme unordered list
